@@ -1,22 +1,45 @@
 @font-face {
   font-family: "Charis SIL";
-  src: url(CharisSILViet-R.woff);
+  src: url(CharisSIL-R.woff);
 }
 @font-face {
   font-family: "Charis SIL";
   font-style: italic;
-  src: url(CharisSILViet-I.woff);
+  src: url(CharisSIL-I.woff);
 }
 
 @font-face {
   font-family: "Charis SIL";
   font-weight: bold;
-  src: url(CharisSILViet-B.woff);
+  src: url(CharisSIL-B.woff);
 }
 
 @font-face {
   font-family: "Charis SIL";
   font-weight: bold;
   font-style: italic;
-  src: url(CharisSILViet-BI.woff);
+  src: url(CharisSIL-BI.woff);
+}
+
+@font-face {
+  font-family: "Charis SIL Alpha";
+  src: url(alpha/CharisSIL-Regular.woff);
+}
+@font-face {
+  font-family: "Charis SIL Alpha";
+  font-style: italic;
+  src: url(alpha/CharisSIL-Italic.woff);
+}
+
+@font-face {
+  font-family: "Charis SIL Alpha";
+  font-weight: bold;
+  src: url(alpha/CharisSIL-Bold.woff);
+}
+
+@font-face {
+  font-family: "Charis SIL Alpha";
+  font-weight: bold;
+  font-style: italic;
+  src: url(alpha/CharisSIL-BoldItalic.woff);
 }
